@@ -1,0 +1,153 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+.env.production.local
+.env.development.local
+
+# Node.js / npm
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# TypeScript
+*.tsbuildinfo
+.tsc-cache/
+
+# Vite
+.vite/
+.vite-cache/
+
+# Build outputs
+build/
+out/
+server.js
+dist-server/
+*.js.map
+*.cjs.map
+*.css.map
+
+# Electron
+release/
+*.asar
+*.dmg
+*.exe
+*.msi
+*.AppImage
+*.deb
+*.rpm
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+develop-eggs/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.hypothesis/
+*.pyx.bak
+.mypy_cache/
+.ruff_cache/
+.pytype/
+poetry.lock
+Pipfile.lock
+uv.lock
+.env.venv
+
+# Python agent build artifacts
+agent_build/
+agent_dist/
+.playwright/
+dist/server/
+
+# IDE / Editor
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
+*~
+.sublime-project
+.sublime-workspace
+.project
+.pydevproject
+.settings/
+.eslintcache
+.prettierignore
+.history/
+.vscode-test/
+*.code-workspace
+
+# Logs and runtime artifacts
+logs/
+*.log
+debug-logs/
+lerna-debug.lo
+npm-error.log
+yarn-error.logg
+pnpm-debug.log
+
+# Runtime/Session data
+*.json.backup
+*.tmp
+.cache/
+.turbo/
+tmp/
+temp/
+*.pid
+.nyc_output/
+coverage/
+
+# Application runtime/state files
+memories.json
+metadata.json
+
+# Personal notes and workspace clutter
+ShepamNotes.txt
+Desktop/*.txt
+MyraaNotes.txt
+MyraaPuzzles.txt
+MyraaPuzzles2.txt
+notes.txt
+riddle.txt
+message.txt
+Myraa.txt
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.directory
