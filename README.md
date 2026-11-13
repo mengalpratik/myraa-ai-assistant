@@ -32,3 +32,14 @@ If you find **Myraa AI Assistant** inspiring and want to support continued devel
 <a href="https://buymeacoffee.com/pratikmengal" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="42" width="180">
 </a>
+&nbsp;&nbsp;
+<a href="upi://pay?pa=iampratikmengal-2@okaxis&pn=Pratik%20Mengal&cu=INR">
+  <img src="https://img.shields.io/badge/UPI-iampratikmengal--2%40okaxis-008080?style=for-the-badge&logo=google-pay&logoColor=white" height="40" alt="Pay via UPI" />
+</a>
+
+<details>
+  <summary><b>🇮🇳 Scan to Pay via UPI (GPay / PhonePe / Paytm / BHIM)</b></summary>
+  <br/>
+  <img src="https://raw.githubusercontent.com/mengalpratik/mengalpratik/main/assets/upi-qr.png" alt="Pratik Mengal UPI QR Code" width="220" style="border-radius: 12px; border: 1px solid rgba(128,128,128,0.2);" />
+  <p><code>iampratikmengal-2@okaxis</code></p>
+</details>
